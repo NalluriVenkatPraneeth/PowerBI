@@ -1,0 +1,641 @@
+,District,State,Literacy
+1, Thane, Maharashtra,#REF!
+2, North Twenty Four Parganas, West Bengal,#REF!
+3, Bangalore, Karnataka,#REF!
+4, Pune, Maharashtra,#REF!
+5, Mumbai Suburban, Maharashtra,#REF!
+6, South Twenty Four Parganas, West Bengal,#REF!
+7, Barddhaman, West Bengal,#REF!
+8, Ahmadabad, Gujarat,#REF!
+9, Murshidabad, West Bengal,#REF!
+10, Jaipur, Rajasthan,#REF!
+11, Nashik, Maharashtra,#REF!
+12, Surat, Gujarat,#REF!
+13, Allahabad, Uttar Pradesh,#REF!
+14, Paschim Medinipur, West Bengal,#REF!
+15, Patna, Bihar,#REF!
+16, Hugli, West Bengal,#REF!
+17, Rangareddy, Andhra Pradesh,#REF!
+18, Nadia, West Bengal,#REF!
+19, East Godavari, Andhra Pradesh,#REF!
+20, Purbi Champaran, Bihar,#REF!
+21, Purba Medinipur, West Bengal,#REF!
+22, Guntur, Andhra Pradesh,#REF!
+23, Haora, West Bengal,#REF!
+24, Muzaffarpur, Bihar,#REF!
+25, Belgaum, Karnataka,#REF!
+26, Moradabad, Uttar Pradesh,#REF!
+27, Ghaziabad, Uttar Pradesh,#REF!
+28, Nagpur, Maharashtra,#REF!
+29, Chennai, Tamil Nadu,#REF!
+30, Azamgarh, Uttar Pradesh,#REF!
+31, Lucknow, Uttar Pradesh,#REF!
+32, Kanpur Nagar, Uttar Pradesh,#REF!
+33, Ahmadnagar, Maharashtra,#REF!
+34, Krishna, Andhra Pradesh,#REF!
+35, Kolkata, West Bengal,#REF!
+36, Jaunpur, Uttar Pradesh,#REF!
+37, Madhubani, Bihar,#REF!
+38, Sitapur, Uttar Pradesh,#REF!
+39, Bareilly, Uttar Pradesh,#REF!
+40, Gorakhpur, Uttar Pradesh,#REF!
+41, Agra, Uttar Pradesh,#REF!
+42, Gaya, Bihar,#REF!
+43, Solapur, Maharashtra,#REF!
+44, Visakhapatnam, Andhra Pradesh,#REF!
+45, Samastipur, Bihar,#REF!
+46, Jalgaon, Maharashtra,#REF!
+47, Chittoor, Andhra Pradesh,#REF!
+48, Vadodara, Gujarat,#REF!
+49, Muzaffarnagar, Uttar Pradesh,#REF!
+50, Malappuram, Kerala,#REF!
+51, Hardoi, Uttar Pradesh,#REF!
+52, Anantapur, Andhra Pradesh,#REF!
+53, Raipur, Chhattisgarh,#REF!
+54, Kurnool, Andhra Pradesh,#REF!
+55, Mahbubnagar, Andhra Pradesh,#REF!
+56, Kheri, Uttar Pradesh,#REF!
+57, Kancheepuram, Tamil Nadu,#REF!
+58, Maldah, West Bengal,#REF!
+59, Saran, Bihar,#REF!
+60, Hyderabad, Andhra Pradesh,#REF!
+61, Darbhanga, Bihar,#REF!
+62, West Godavari, Andhra Pradesh,#REF!
+63, Vellore, Tamil Nadu,#REF!
+64, Pashchim Champaran, Bihar,#REF!
+65, Kolhapur, Maharashtra,#REF!
+66, Jalpaiguri, West Bengal,#REF!
+67, Rajkot, Gujarat,#REF!
+68, Sultanpur, Uttar Pradesh,#REF!
+69, Karimnagar, Andhra Pradesh,#REF!
+70, Thiruvallur, Tamil Nadu,#REF!
+71, Aurangabad, Maharashtra,#REF!
+72, Jodhpur, Rajasthan,#REF!
+73, Bijnor, Uttar Pradesh,#REF!
+74, Budaun, Uttar Pradesh,#REF!
+75, Varanasi, Uttar Pradesh,#REF!
+76, Alwar, Rajasthan,#REF!
+77, Aligarh, Uttar Pradesh,#REF!
+78, North West Delhi, Delhi,#REF!
+79, Ghazipur, Uttar Pradesh,#REF!
+80, Bankura, West Bengal,#REF!
+81, Kushinagar, Uttar Pradesh,#REF!
+82, Ganjam, Orissa,#REF!
+83, Warangal, Andhra Pradesh,#REF!
+84, Birbhum, West Bengal,#REF!
+85, Bulandshahar, Uttar Pradesh,#REF!
+86, Ludhiana, Punjab,#REF!
+87, Vaishali, Bihar,#REF!
+88, Nalgonda, Andhra Pradesh,#REF!
+89, Bahraich, Uttar Pradesh,#REF!
+90, Salem, Tamil Nadu,#REF!
+91, Saharanpur, Uttar Pradesh,#REF!
+92, Viluppuram, Tamil Nadu,#REF!
+93, Coimbatore, Tamil Nadu,#REF!
+94, Meerut, Uttar Pradesh,#REF!
+95, Gonda, Uttar Pradesh,#REF!
+96, Sitamarhi, Bihar,#REF!
+97, Rae Bareli, Uttar Pradesh,#REF!
+98, Prakasam, Andhra Pradesh,#REF!
+99, Nanded, Maharashtra,#REF!
+100, Durg, Chhattisgarh,#REF!
+101, Siwan, Bihar,#REF!
+102, Nagaur, Rajasthan,#REF!
+103, Thiruvananthapuram, Kerala,#REF!
+104, Ernakulam, Kerala,#REF!
+105, Indore, Madhya Pradesh,#REF!
+106, Purnia, Bihar,#REF!
+107, Barabanki, Uttar Pradesh,#REF!
+108, Ballia, Uttar Pradesh,#REF!
+109, Pratapgarh, Uttar Pradesh,#REF!
+110, Thrissur, Kerala,#REF!
+111, Banaskantha, Gujarat,#REF!
+112, Unnao, Uttar Pradesh,#REF!
+113, Deoria, Uttar Pradesh,#REF!
+114, Kozhikode, Kerala,#REF!
+115, Mumbai City, Maharashtra,#REF!
+116, Tirunelveli, Tamil Nadu,#REF!
+117, Katihar, Bihar,#REF!
+118, Udaipur, Rajasthan,#REF!
+119, Madurai, Tamil Nadu,#REF!
+120, Bhagalpur, Bihar,#REF!
+121, Medak, Andhra Pradesh,#REF!
+122, Uttar Dinajpur, West Bengal,#REF!
+123, Shahjahanpur, Uttar Pradesh,#REF!
+124, Satara, Maharashtra,#REF!
+125, Mysore, Karnataka,#REF!
+126, Begusarai, Bihar,#REF!
+127, Sri Potti Sriramulu Nellore, Andhra Pradesh,#REF!
+128, Rohtas, Bihar,#REF!
+129, Puruliya, West Bengal,#REF!
+130, Ranchi, Jharkhand,#REF!
+131, Amravati, Maharashtra,#REF!
+132, YSR, Andhra Pradesh,#REF!
+133, Bhavnagar, Gujarat,#REF!
+134, Nalanda, Bihar,#REF!
+135, Nagaon, Assam,#REF!
+136, Sangli, Maharashtra,#REF!
+137, Koch Bihar, West Bengal,#REF!
+138, Araria, Bihar,#REF!
+139, Palakkad, Kerala,#REF!
+140, Khammam, Andhra Pradesh,#REF!
+141, Yavatmal, Maharashtra,#REF!
+142, Junagadh, Gujarat,#REF!
+143, Adilabad, Andhra Pradesh,#REF!
+144, South Delhi, Delhi,#REF!
+145, Bhojpur, Bihar,#REF!
+146, Tiruchirappalli, Tamil Nadu,#REF!
+147, Srikakulam, Andhra Pradesh,#REF!
+148, Maharajganj, Uttar Pradesh,#REF!
+149, Dhanbad, Jharkhand,#REF!
+150, Tumkur, Karnataka,#REF!
+151, Sikar, Rajasthan,#REF!
+152, Bilaspur, Chhattisgarh,#REF!
+153, Kollam, Kerala,#REF!
+154, Raigarh, Maharashtra,#REF!
+155, Fatehpur, Uttar Pradesh,#REF!
+156, Cuttack, Orissa,#REF!
+157, Cuddalore, Tamil Nadu,#REF!
+158, Barmer, Rajasthan,#REF!
+159, Buldana, Maharashtra,#REF!
+160, Bid, Maharashtra,#REF!
+161, Ajmer, Rajasthan,#REF!
+162, Gulbarga, Karnataka,#REF!
+163, Gopalganj, Bihar,#REF!
+164, Siddharth Nagar, Uttar Pradesh,#REF!
+165, Nizamabad, Andhra Pradesh,#REF!
+166, Bharatpur, Rajasthan,#REF!
+167, Mathura, Uttar Pradesh,#REF!
+168, West Delhi, Delhi,#REF!
+169, Aurangabad, Bihar,#REF!
+170, Kannur, Kerala,#REF!
+171, Mayurbhanj, Orissa,#REF!
+172, Firozabad, Uttar Pradesh,#REF!
+173, Mirzapur, Uttar Pradesh,#REF!
+174, Amritsar, Punjab,#REF!
+175, Tiruppur, Tamil Nadu,#REF!
+176, Faizabad, Uttar Pradesh,#REF!
+177, Tiruvannamalai, Tamil Nadu,#REF!
+178, Basti, Uttar Pradesh,#REF!
+179, Jabalpur, Madhya Pradesh,#REF!
+180, Latur, Maharashtra,#REF!
+181, Bellary, Karnataka,#REF!
+182, Giridih, Jharkhand,#REF!
+183, Sabarkantha, Gujarat,#REF!
+184, Bhilwara, Rajasthan,#REF!
+185, Thanjavur, Tamil Nadu,#REF!
+186, Ambedkar Nagar, Uttar Pradesh,#REF!
+187, PanchMahal, Gujarat,#REF!
+188, Sagar, Madhya Pradesh,#REF!
+189, Bhopal, Madhya Pradesh,#REF!
+190, Rewa, Madhya Pradesh,#REF!
+191, Bikaner, Rajasthan,#REF!
+192, Surguja, Chhattisgarh,#REF!
+193, Vizianagaram, Andhra Pradesh,#REF!
+194, Rampur, Uttar Pradesh,#REF!
+195, Baleshwar, Orissa,#REF!
+196, Kheda, Gujarat,#REF!
+197, Gurdaspur, Punjab,#REF!
+198, Purbi Singhbhum, Jharkhand,#REF!
+199, South West Delhi, Delhi,#REF!
+200, Erode, Tamil Nadu,#REF!
+201, Khordha, Orissa,#REF!
+202, North East Delhi, Delhi,#REF!
+203, Supaul, Bihar,#REF!
+204, Satna, Madhya Pradesh,#REF!
+205, Nawada, Bihar,#REF!
+206, Mau, Uttar Pradesh,#REF!
+207, Chandrapur, Maharashtra,#REF!
+208, Jalandhar, Punjab,#REF!
+209, Dhar, Madhya Pradesh,#REF!
+210, Bijapur, Karnataka,#REF!
+211, Jamnagar, Gujarat,#REF!
+212, Dindigul, Tamil Nadu,#REF!
+213, Balrampur, Uttar Pradesh,#REF!
+214, Jhunjhunun, Rajasthan,#REF!
+215, Alappuzha, Kerala,#REF!
+216, Dohad, Gujarat,#REF!
+217, Sundargarh, Orissa,#REF!
+218, Anand, Gujarat,#REF!
+219, Kachchh, Gujarat,#REF!
+220, Chhindwara, Madhya Pradesh,#REF!
+221, Dakshina Kannada, Karnataka,#REF!
+222, Bokaro, Jharkhand,#REF!
+223, Dhule, Maharashtra,#REF!
+224, Churu, Rajasthan,#REF!
+225, Pali, Rajasthan,#REF!
+226, Mahesana, Gujarat,#REF!
+227, Banka, Bihar,#REF!
+228, Gwalior, Madhya Pradesh,#REF!
+229, Pilibhit, Uttar Pradesh,#REF!
+230, Firozpur, Punjab,#REF!
+231, Madhepura, Bihar,#REF!
+232, Jhansi, Uttar Pradesh,#REF!
+233, Ujjain, Madhya Pradesh,#REF!
+234, Kottayam, Kerala,#REF!
+235, Ganganagar, Rajasthan,#REF!
+236, Morena, Madhya Pradesh,#REF!
+237, Jalna, Maharashtra,#REF!
+238, Chandauli, Uttar Pradesh,#REF!
+239, Kota, Rajasthan,#REF!
+240, Dhubri, Assam,#REF!
+241, Davanagere, Karnataka,#REF!
+242, Virudhunagar, Tamil Nadu,#REF!
+243, Palamu, Jharkhand,#REF!
+244, Raichur, Karnataka,#REF!
+245, Sonitpur, Assam,#REF!
+246, Saharsa, Bihar,#REF!
+247, Patiala, Punjab,#REF!
+248, Haridwar, Uttarakhand,#REF!
+249, Bagalkot, Karnataka,#REF!
+250, Farrukhabad, Uttar Pradesh,#REF!
+251, Krishnagiri, Tamil Nadu,#REF!
+252, West Nimar, Madhya Pradesh,#REF!
+253, Kanniyakumari, Tamil Nadu,#REF!
+254, Mainpuri, Uttar Pradesh,#REF!
+255, Sonbhadra, Uttar Pradesh,#REF!
+256, Dharwad, Karnataka,#REF!
+257, Darjiling, West Bengal,#REF!
+258, Jyotiba Phule Nagar, Uttar Pradesh,#REF!
+259, Parbhani, Maharashtra,#REF!
+260, Jalor, Rajasthan,#REF!
+261, Jajapur, Orissa,#REF!
+262, Akola, Maharashtra,#REF!
+263, Faridabad, Haryana,#REF!
+264, Mandya, Karnataka,#REF!
+265, Kendujhar, Orissa,#REF!
+266, Banda, Uttar Pradesh,#REF!
+267, Banswara, Rajasthan,#REF!
+268, Ramabai Nagar, Uttar Pradesh,#REF!
+269, Hassan, Karnataka,#REF!
+270, Hanumangarh, Rajasthan,#REF!
+271, Etah, Uttar Pradesh,#REF!
+272, Chhattarpur, Madhya Pradesh,#REF!
+273, Jamui, Bihar,#REF!
+274, Surendranagar, Gujarat,#REF!
+275, Shimoga, Karnataka,#REF!
+276, Thoothukkudi, Tamil Nadu,#REF!
+277, Hisar, Haryana,#REF!
+278, Cachar, Assam,#REF!
+279, Hazaribagh, Jharkhand,#REF!
+280, Namakkal, Tamil Nadu,#REF!
+281, Shivpuri, Madhya Pradesh,#REF!
+282, West Tripura, Tripura,#REF!
+283, Sant Kabir Nagar, Uttar Pradesh,#REF!
+284, East Delhi, Delhi,#REF!
+285, Buxar, Bihar,#REF!
+286, Valsad, Gujarat,#REF!
+287, Bidar, Karnataka,#REF!
+288, Bhind, Madhya Pradesh,#REF!
+289, Balaghat, Madhya Pradesh,#REF!
+290, Puri, Orissa,#REF!
+291, Dehradun, Uttarakhand,#REF!
+292, Barpeta, Assam,#REF!
+293, Kishanganj, Bihar,#REF!
+294, Jalaun, Uttar Pradesh,#REF!
+295, Dakshin Dinajpur, West Bengal,#REF!
+296, Khagaria, Bihar,#REF!
+297, Chitradurga, Karnataka,#REF!
+298, Osmanabad, Maharashtra,#REF!
+299, Kannauj, Uttar Pradesh,#REF!
+300, Sangrur, Punjab,#REF!
+301, Balangir, Orissa,#REF!
+302, Udham Singh Nagar, Uttarakhand,#REF!
+303, Nandurbar, Maharashtra,#REF!
+304, Gautam Buddha Nagar, Uttar Pradesh,#REF!
+305, Bhiwani, Haryana,#REF!
+306, Dausa, Rajasthan,#REF!
+307, Kaimur, Bihar,#REF!
+308, Janjgir Champa, Chhattisgarh,#REF!
+309, Pudukkottai, Tamil Nadu,#REF!
+310, Nagapattinam, Tamil Nadu,#REF!
+311, Ratnagiri, Maharashtra,#REF!
+312, Kaushambi, Uttar Pradesh,#REF!
+313, Haveri, Karnataka,#REF!
+314, Hoshiarpur, Punjab,#REF!
+315, Etawah, Uttar Pradesh,#REF!
+316, Sant Ravidas Nagar, Uttar Pradesh,#REF!
+317, Kalahandi, Orissa,#REF!
+318, Betul, Madhya Pradesh,#REF!
+319, Mahamaya Nagar, Uttar Pradesh,#REF!
+320, Dewas, Madhya Pradesh,#REF!
+321, Bharuch, Gujarat,#REF!
+322, Rajgarh, Madhya Pradesh,#REF!
+323, Chittaurgarh, Rajasthan,#REF!
+324, Rajnandgaon, Chhattisgarh,#REF!
+325, Kolar, Karnataka,#REF!
+326, Jammu, Jammu and Kashmir,#REF!
+327, Kamrup, Assam,#REF!
+328, Gurgaon, Haryana,#REF!
+329, Amreli, Gujarat,#REF!
+330, Shajapur, Madhya Pradesh,#REF!
+331, Kangra, Himachal Pradesh,#REF!
+332, Dharmapuri, Tamil Nadu,#REF!
+333, Bhadrak, Orissa,#REF!
+334, Karnal, Haryana,#REF!
+335, Pashchimi Singhbhum, Jharkhand,#REF!
+336, Raigarh, Chhattisgarh,#REF!
+337, Deoghar, Jharkhand,#REF!
+338, Bargarh, Orissa,#REF!
+339, Vidisha, Madhya Pradesh,#REF!
+340, Karauli, Rajasthan,#REF!
+341, Ratlam, Madhya Pradesh,#REF!
+342, Sonipat, Haryana,#REF!
+343, Tikamgarh, Madhya Pradesh,#REF!
+344, Kendrapara, Orissa,#REF!
+345, Uttara Kannada, Karnataka,#REF!
+346, Kanshiram Nagar, Uttar Pradesh,#REF!
+347, Tonk, Rajasthan,#REF!
+348, Bastar, Chhattisgarh,#REF!
+349, Jhalawar, Rajasthan,#REF!
+350, Gandhinagar, Gujarat,#REF!
+351, Koppal, Karnataka,#REF!
+352, Dungarpur, Rajasthan,#REF!
+353, Bathinda, Punjab,#REF!
+354, Barwani, Madhya Pradesh,#REF!
+355, Koraput, Orissa,#REF!
+356, Auraiya, Uttar Pradesh,#REF!
+357, Seoni, Madhya Pradesh,#REF!
+358, Munger, Bihar,#REF!
+359, Ramanathapuram, Tamil Nadu,#REF!
+360, Patan, Gujarat,#REF!
+361, Mandsaur, Madhya Pradesh,#REF!
+362, Sivaganga, Tamil Nadu,#REF!
+363, Sawai Madhopur, Rajasthan,#REF!
+364, Jind, Haryana,#REF!
+365, Raisen, Madhya Pradesh,#REF!
+366, Navsari, Gujarat,#REF!
+367, Tinsukia, Assam,#REF!
+368, Dibrugarh, Assam,#REF!
+369, Garhwa, Jharkhand,#REF!
+370, Gondiya, Maharashtra,#REF!
+371, Dumka, Jharkhand,#REF!
+372, Godda, Jharkhand,#REF!
+373, Sehore, Madhya Pradesh,#REF!
+374, East Nimar, Madhya Pradesh,#REF!
+375, Kasaragod, Kerala,#REF!
+376, Baghpat, Uttar Pradesh,#REF!
+377, Wardha, Maharashtra,#REF!
+378, Sirsa, Haryana,#REF!
+379, Katni, Madhya Pradesh,#REF!
+380, Anugul, Orissa,#REF!
+381, Thiruvarur, Tamil Nadu,#REF!
+382, Damoh, Madhya Pradesh,#REF!
+383, Chikkaballapura, Karnataka,#REF!
+384, Kamrup Metropolitan, Assam,#REF!
+385, Theni, Tamil Nadu,#REF!
+386, Guna, Madhya Pradesh,#REF!
+387, Hoshangabad, Madhya Pradesh,#REF!
+388, Srinagar, Jammu and Kashmir,#REF!
+389, Karimganj, Assam,#REF!
+390, Baran, Rajasthan,#REF!
+391, Lalitpur, Uttar Pradesh,#REF!
+392, Nabarangapur, Orissa,#REF!
+393, Yamunanagar, Haryana,#REF!
+394, Korba, Chhattisgarh,#REF!
+395, Dhaulpur, Rajasthan,#REF!
+396, Panipat, Haryana,#REF!
+397, Bhandara, Maharashtra,#REF!
+398, Pathanamthitta, Kerala,#REF!
+399, Washim, Maharashtra,#REF!
+400, Dhenkanal, Orissa,#REF!
+401, Singrauli, Madhya Pradesh,#REF!
+402, Udupi, Karnataka,#REF!
+403, Hingoli, Maharashtra,#REF!
+404, Yadgir, Karnataka,#REF!
+405, Rajsamand, Rajasthan,#REF!
+406, Sivasagar, Assam,#REF!
+407, Sahibganj, Jharkhand,#REF!
+408, Chikmagalur, Karnataka,#REF!
+409, Jagatsinghapur, Orissa,#REF!
+410, Ambala, Haryana,#REF!
+411, Sidhi, Madhya Pradesh,#REF!
+412, Jehanabad, Bihar,#REF!
+413, Tarn Taran, Punjab,#REF!
+414, Shrawasti, Uttar Pradesh,#REF!
+415, Bundi, Rajasthan,#REF!
+416, Idukki, Kerala,#REF!
+417, Hamirpur, Uttar Pradesh,#REF!
+418, Jorhat, Assam,#REF!
+419, Narsimhapur, Madhya Pradesh,#REF!
+420, Mewat, Haryana,#REF!
+421, Ramanagara, Karnataka,#REF!
+422, Anantnag, Jammu and Kashmir,#REF!
+423, Kaithal, Haryana,#REF!
+424, Gadchiroli, Maharashtra,#REF!
+425, Golaghat, Assam,#REF!
+426, Shahdol, Madhya Pradesh,#REF!
+427, Saraikela Kharsawan, Jharkhand,#REF!
+428, Gadag, Karnataka,#REF!
+429, Karur, Tamil Nadu,#REF!
+430, Rohtak, Haryana,#REF!
+431, Chandigarh, Chandigarh,#REF!
+432, Mandla, Madhya Pradesh,#REF!
+433, Chatra, Jharkhand,#REF!
+434, Palwal, Haryana,#REF!
+435, Lakhimpur, Assam,#REF!
+436, Sambalpur, Orissa,#REF!
+437, Sirohi, Rajasthan,#REF!
+438, Mahasamund, Chhattisgarh,#REF!
+439, Gumla, Jharkhand,#REF!
+440, Jhabua, Madhya Pradesh,#REF!
+441, Chamarajanagar, Karnataka,#REF!
+442, Panna, Madhya Pradesh,#REF!
+443, Goalpara, Assam,#REF!
+444, Baramula, Jammu and Kashmir,#REF!
+445, Lakhisarai, Bihar,#REF!
+446, Mandi, Himachal Pradesh,#REF!
+447, Moga, Punjab,#REF!
+448, Mohali, Punjab,#REF!
+449, Chitrakoot, Uttar Pradesh,#REF!
+450, Bangalore Rural, Karnataka,#REF!
+451, Rayagada, Orissa,#REF!
+452, Kurukshetra, Haryana,#REF!
+453, Nayagarh, Orissa,#REF!
+454, Jhajjar, Haryana,#REF!
+455, Morigaon, Assam,#REF!
+456, Karbi Anglong, Assam,#REF!
+457, Nainital, Uttarakhand,#REF!
+458, Puducherry, Puducherry,#REF!
+459, Baksa, Assam,#REF!
+460, Ramgarh, Jharkhand,#REF!
+461, Fatehabad, Haryana,#REF!
+462, Darrang, Assam,#REF!
+463, Mahendragarh, Haryana,#REF!
+464, Muktsar, Punjab,#REF!
+465, Pakur, Jharkhand,#REF!
+466, Rewari, Haryana,#REF!
+467, North Delhi, Delhi,#REF!
+468, Kokrajhar, Assam,#REF!
+469, South Tripura, Tripura,#REF!
+470, Mahoba, Uttar Pradesh,#REF!
+471, Kupwara, Jammu and Kashmir,#REF!
+472, Pratapgarh, Rajasthan,#REF!
+473, Jashpur, Chhattisgarh,#REF!
+474, Sindhudurg, Maharashtra,#REF!
+475, Ashoknagar, Madhya Pradesh,#REF!
+476, Udalguri, Assam,#REF!
+477, Neemuch, Madhya Pradesh,#REF!
+478, East Khasi Hills, Meghalaya,#REF!
+479, Kabirdham, Chhattisgarh,#REF!
+480, North Goa, Goa,#REF!
+481, Wayanad, Kerala,#REF!
+482, Kapurthala, Punjab,#REF!
+483, Shimla, Himachal Pradesh,#REF!
+484, Tapi, Gujarat,#REF!
+485, Dhamtari, Chhattisgarh,#REF!
+486, Jamtara, Jharkhand,#REF!
+487, Datia, Madhya Pradesh,#REF!
+488, Nalbari, Assam,#REF!
+489, Mansa, Punjab,#REF!
+490, Burhanpur, Madhya Pradesh,#REF!
+491, Ariyalur, Tamil Nadu,#REF!
+492, Badgam, Jammu and Kashmir,#REF!
+493, Anuppur, Madhya Pradesh,#REF!
+494, Kanker, Chhattisgarh,#REF!
+495, Bongaigaon, Assam,#REF!
+496, The Nilgiris, Tamil Nadu,#REF!
+497, Kandhamal, Orissa,#REF!
+498, Alirajpur, Madhya Pradesh,#REF!
+499, Latehar, Jharkhand,#REF!
+500, Kodarma, Jharkhand,#REF!
+501, Dindori, Madhya Pradesh,#REF!
+502, Arwal, Bihar,#REF!
+503, North Tripura, Tripura,#REF!
+504, Sheopur, Madhya Pradesh,#REF!
+505, Pauri Garhwal, Uttarakhand,#REF!
+506, Dhemaji, Assam,#REF!
+507, Rupnagar, Punjab,#REF!
+508, Jaisalmer, Rajasthan,#REF!
+509, Hailakandi, Assam,#REF!
+510, Korea, Chhattisgarh,#REF!
+511, Sheohar, Bihar,#REF!
+512, Umaria, Madhya Pradesh,#REF!
+513, West Garo Hills, Meghalaya,#REF!
+514, Rajouri, Jammu and Kashmir,#REF!
+515, South Goa, Goa,#REF!
+516, Sheikhpura, Bihar,#REF!
+517, Almora, Uttarakhand,#REF!
+518, Tehri Garhwal, Uttarakhand,#REF!
+519, Faridkot, Punjab,#REF!
+520, Kathua, Jammu and Kashmir,#REF!
+521, Malkangiri, Orissa,#REF!
+522, Shahid Bhagat Singh Nagar, Punjab,#REF!
+523, Nuapada, Orissa,#REF!
+524, Subarnapur, Orissa,#REF!
+525, Fatehgarh Sahib, Punjab,#REF!
+526, Simdega, Jharkhand,#REF!
+527, Barnala, Punjab,#REF!
+528, Narmada, Gujarat,#REF!
+529, Porbandar, Gujarat,#REF!
+530, Central Delhi, Delhi,#REF!
+531, Solan, Himachal Pradesh,#REF!
+532, Jharsuguda, Orissa,#REF!
+533, Gajapati, Orissa,#REF!
+534, Harda, Madhya Pradesh,#REF!
+535, Perambalur, Tamil Nadu,#REF!
+536, Panchkula, Haryana,#REF!
+537, Pulwama, Jammu and Kashmir,#REF!
+538, Udhampur, Jammu and Kashmir,#REF!
+539, Kodagu, Karnataka,#REF!
+540, Dantewada, Chhattisgarh,#REF!
+541, Khunti, Jharkhand,#REF!
+542, Sirmaur, Himachal Pradesh,#REF!
+543, Una, Himachal Pradesh,#REF!
+544, Chamba, Himachal Pradesh,#REF!
+545, Imphal West, Manipur,#REF!
+546, Pithoragarh, Uttarakhand,#REF!
+547, Chirang, Assam,#REF!
+548, Senapati, Manipur,#REF!
+549, Punch, Jammu and Kashmir,#REF!
+550, Lohardaga, Jharkhand,#REF!
+551, Imphal East, Manipur,#REF!
+552, Hamirpur, Himachal Pradesh,#REF!
+553, Baudh, Orissa,#REF!
+554, Kullu, Himachal Pradesh,#REF!
+555, Kulgam, Jammu and Kashmir,#REF!
+556, Thoubal, Manipur,#REF!
+557, Doda, Jammu and Kashmir,#REF!
+558, Aizawl, Mizoram,#REF!
+559, Jaintia Hills, Meghalaya,#REF!
+560, Bandipora, Jammu and Kashmir,#REF!
+561, Chamoli, Uttarakhand,#REF!
+562, West Khasi Hills, Meghalaya,#REF!
+563, Bilaspur, Himachal Pradesh,#REF!
+564, Dimapur, Nagaland,#REF!
+565, Dhalai, Tripura,#REF!
+566, Dadra and Nagar Haveli, Dadra and Nagar Haveli,#REF!
+567, Uttarkashi, Uttarakhand,#REF!
+568, Samba, Jammu and Kashmir,#REF!
+569, East Garo Hills, Meghalaya,#REF!
+570, Reasi, Jammu and Kashmir,#REF!
+571, Debagarh, Orissa,#REF!
+572, Ganderbal, Jammu and Kashmir,#REF!
+573, Ramban, Jammu and Kashmir,#REF!
+574, East Sikkim, Sikkim,#REF!
+575, Churachandpur, Manipur,#REF!
+576, Kohima, Nagaland,#REF!
+577, Shupiyan, Jammu and Kashmir,#REF!
+578, Bageshwar, Uttarakhand,#REF!
+579, Champawat, Uttarakhand,#REF!
+580, Ri Bhoi, Meghalaya,#REF!
+581, Bijapur, Chhattisgarh,#REF!
+582, Mon, Nagaland,#REF!
+583, Rudraprayag, Uttarakhand,#REF!
+584, South Andaman, Andaman And Nicobar Islands,#REF!
+585, Bishnupur, Manipur,#REF!
+586, Kishtwar, Jammu and Kashmir,#REF!
+587, The Dangs, Gujarat,#REF!
+588, Dima Hasao, Assam,#REF!
+589, Karaikal, Puducherry,#REF!
+590, Tuensang, Nagaland,#REF!
+591, Mokokchung, Nagaland,#REF!
+592, Daman, Daman and Diu,#REF!
+593, Ukhrul, Manipur,#REF!
+594, Papumpare, Arunachal Pradesh,#REF!
+595, Wokha, Nagaland,#REF!
+596, Phek, Nagaland,#REF!
+597, Lunglei, Mizoram,#REF!
+598, Changlang, Arunachal Pradesh,#REF!
+599, South Sikkim, Sikkim,#REF!
+600, Lohit, Arunachal Pradesh,#REF!
+601, Chandel, Manipur,#REF!
+602, South Garo Hills, Meghalaya,#REF!
+603, New Delhi, Delhi,#REF!
+604, Kargil, Jammu and Kashmir,#REF!
+605, Zunheboto, Nagaland,#REF!
+606, Tamenglong, Manipur,#REF!
+607, Narayanpur, Chhattisgarh,#REF!
+608, West Sikkim, Sikkim,#REF!
+609, Leh, Jammu and Kashmir,#REF!
+610, Champhai, Mizoram,#REF!
+611, Lawngtlai, Mizoram,#REF!
+612, West Siang, Arunachal Pradesh,#REF!
+613, Tirap, Arunachal Pradesh,#REF!
+614, North And Middle Andaman, Andaman And Nicobar Islands,#REF!
+615, East Siang, Arunachal Pradesh,#REF!
+616, Peren, Nagaland,#REF!
+617, Kurung Kumey, Arunachal Pradesh,#REF!
+618, Mamit, Mizoram,#REF!
+619, Kinnaur, Himachal Pradesh,#REF!
+620, Kolasib, Mizoram,#REF!
+621, West Kameng, Arunachal Pradesh,#REF!
+622, Upper Subansiri, Arunachal Pradesh,#REF!
+623, Lower Subansiri, Arunachal Pradesh,#REF!
+624, East Kameng, Arunachal Pradesh,#REF!
+625, Kiphire, Nagaland,#REF!
+626, Serchhip, Mizoram,#REF!
+627, Lakshadweep, Lakshadweep,#REF!
+628, Saiha, Mizoram,#REF!
+629, Yanam, Puducherry,#REF!
+630, Lower Dibang Valley, Arunachal Pradesh,#REF!
+631, Diu, Daman and Diu,#REF!
+632, Longleng, Nagaland,#REF!
+633, Tawang, Arunachal Pradesh,#REF!
+634, North Sikkim, Sikkim,#REF!
+635, Mahe, Puducherry,#REF!
+636, Nicobars, Andaman And Nicobar Islands,#REF!
+637, Upper Siang, Arunachal Pradesh,#REF!
+638, Lahul and Spiti, Himachal Pradesh,#REF!
+639, Anjaw, Arunachal Pradesh,#REF!
+640, Dibang Valley, Arunachal Pradesh,#REF!
